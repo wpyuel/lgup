@@ -1,4 +1,4 @@
-# Hostloc Auto Get Points20220602
+# Hostloc Auto Get Points20220726-new
 使用 GitHub Actions 自动获取 Hostloc 论坛积分
 
 ## 更新
